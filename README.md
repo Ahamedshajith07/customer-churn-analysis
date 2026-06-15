@@ -289,8 +289,8 @@ customer-churn-analysis/
 
 ## Connect
 
-**LinkedIn:** _(add your LinkedIn URL)_  
-**GitHub:** _(add your GitHub profile URL)_
+**LinkedIn:** _(https://www.linkedin.com/in/ahamed-shajith-28016932b/)_  
+**GitHub:** _(https://github.com/Ahamedshajith07)_
 
 ---
 
