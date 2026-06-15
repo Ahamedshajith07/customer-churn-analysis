@@ -233,7 +233,7 @@ Avg Monthly Charges = AVERAGE(telco_cleaned[MonthlyCharges])
 ## Screenshots
 
 ### Raw Data (Before Cleaning)
-![Raw Data](screenshots/raw_data_preview)
+![Raw Data](screenshots/raw_data_preview.png)
 
 ### Row Count: Before vs After
 ![Row Count](screenshots/row_count_comparison.png)
